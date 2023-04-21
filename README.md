@@ -24,10 +24,12 @@ JWT_SECRET=<your jwt secret>
 6. You can now test all the endpoints with required body parameters given in the code.
 
 #Improvement to be done:
+
 The improvments are majorly related to the frontend.Once the frontend is developed, we can take up the follwing actions : 
 1. Add session to users browser with a certain expiry time to avoid logging in reapeatedly.
 2. Add CORS and morgan to improve the security of API.
 3. Divide the backend into microservices if the scale is considerable.
+4. Containerization to avoid deprecation bugs.
 
 ##Hope you like it. That said, there is always scope for some improvement when discussed thoroughly. Thanks.
  
